@@ -9,11 +9,12 @@ void main(void)
 {
   clk_config_16MHz_hsi();
   GPIO_Config();
+  UART_Config();
   while (1)
   {
     GPIO_WriteReverse(LED_BUILTIN);
     delay(1000);
-    test++;
+    Serial.println((uint8_t)10,BIN);
   }
 }
 

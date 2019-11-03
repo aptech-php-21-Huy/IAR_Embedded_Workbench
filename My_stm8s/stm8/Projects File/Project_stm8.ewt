@@ -2081,6 +2081,18 @@
   <group>
     <name>MyLibrary</name>
     <file>
+      <name>$PROJ_DIR$\..\MyLibrary\Print.cpp</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MyLibrary\Print.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MyLibrary\Serial.cpp</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\MyLibrary\Serial.h</name>
+    </file>
+    <file>
       <name>$PROJ_DIR$\..\MyLibrary\stm8s_config.c</name>
     </file>
     <file>
@@ -2094,12 +2106,6 @@
     </file>
     <file>
       <name>$PROJ_DIR$\..\UserFile\stm8s_conf.h</name>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\UserFile\stm8s_it.c</name>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\UserFile\stm8s_it.h</name>
     </file>
   </group>
 </project>

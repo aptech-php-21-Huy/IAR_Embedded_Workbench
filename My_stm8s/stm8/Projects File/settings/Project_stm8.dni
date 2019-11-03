@@ -8,6 +8,24 @@ UseTrigger=1
 TriggerName=main
 LimitSize=0
 ByteLimit=50
+[DebugChecksum]
+Checksum=1915798012
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[CodeCoverage]
+Enabled=_ 0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=112
 [InterruptLog]
 LogEnabled=0
 GraphEnabled=0
@@ -37,16 +55,12 @@ Enabled=0
 ShowSource=1
 [Simulator]
 Freq=16000000
-[DebugChecksum]
-Checksum=-88952342
-[CallStack]
-ShowArgs=0
-[Disassembly]
-MixedMode=1
 [DataSample]
 LogEnabled=0
 GraphEnabled=0
 ShowTimeLog=1
+[Breakpoints]
+Count=0
 [Log file]
 LoggingEnabled=_ 0
 LogFile=_ ""
@@ -54,8 +68,6 @@ Category=_ 0
 [TermIOLog]
 LoggingEnabled=_ 0
 LogFile=_ ""
-[Breakpoints]
-Count=0
 [Aliases]
 Count=0
 SuppressDialog=0

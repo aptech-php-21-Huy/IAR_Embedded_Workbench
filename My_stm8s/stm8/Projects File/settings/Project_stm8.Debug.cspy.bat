@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "C:\Users\admin\Desktop\New folder\stm8\Projects File\settings\Project_stm8.Debug.general.xcl" --backend -f "C:\Users\admin\Desktop\New folder\stm8\Projects File\settings\Project_stm8.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Projects File\settings\Project_stm8.Debug.general.xcl" --backend -f "C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Projects File\settings\Project_stm8.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "C:\Users\admin\Desktop\New folder\stm8\Projects File\settings\Project_stm8.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\admin\Desktop\New folder\stm8\Projects File\settings\Project_stm8.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Projects File\settings\Project_stm8.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Projects File\settings\Project_stm8.Debug.driver.xcl" 
 
 @echo off 
 :end
