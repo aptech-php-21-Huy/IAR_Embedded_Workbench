@@ -1,14 +1,14 @@
-"C:\Users\admin\Desktop\New folder\stm8\DriverLib\src\stm8s_exti.c"
+"C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\DriverLib\src\stm8s_exti.c"
 -std=c++98
 -ferror-limit=100
 -I
-C:\Users\admin\Desktop\New folder\stm8\Projects File\..\UserFile
+C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Projects File\..\UserFile
 -I
-C:\Users\admin\Desktop\New folder\stm8\Projects File\..\DriverLib\inc
+C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Projects File\..\DriverLib\inc
 -I
-C:\Users\admin\Desktop\New folder\stm8\Projects File\..\MyLibrary
+C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Projects File\..\MyLibrary
 -I
-C:\Users\admin\Desktop\New folder\stm8\Projects File\..\Arduino\inc
+C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Projects File\..\Arduino\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc
 -I
@@ -16,13 +16,13 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc\c
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc\ecpp
 -I
-C:\Users\admin\Desktop\New folder\stm8\UserFile
+C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\UserFile
 -I
-C:\Users\admin\Desktop\New folder\stm8\DriverLib\inc
+C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\DriverLib\inc
 -I
-C:\Users\admin\Desktop\New folder\stm8\MyLibrary
+C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\MyLibrary
 -I
-C:\Users\admin\Desktop\New folder\stm8\Arduino\inc
+C:\Users\admin\Desktop\IAR_Embedded_Workbench\My_stm8s\stm8\Arduino\inc
 -DSTM8S103=1
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff

@@ -2107,6 +2107,12 @@
     <file>
       <name>$PROJ_DIR$\..\UserFile\stm8s_conf.h</name>
     </file>
+    <file>
+      <name>$PROJ_DIR$\..\UserFile\stm8s_it.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\UserFile\stm8s_it.h</name>
+    </file>
   </group>
 </project>
 

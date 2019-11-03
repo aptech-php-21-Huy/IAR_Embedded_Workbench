@@ -328,24 +328,24 @@ INTERRUPT_HANDLER(TIM1_CAP_COM_IRQHandler, 12)
   * @param  None
   * @retval None
   */
- INTERRUPT_HANDLER(UART1_TX_IRQHandler, 17)
- {
-    /* In order to detect unexpected events during development,
-       it is recommended to set a breakpoint on the following instruction.
-    */
- }
+// INTERRUPT_HANDLER(UART1_TX_IRQHandler, 17)
+// {
+//    /* In order to detect unexpected events during development,
+//       it is recommended to set a breakpoint on the following instruction.
+//    */
+// }
 
 /**
   * @brief UART1 RX Interrupt routine.
   * @param  None
   * @retval None
   */
- INTERRUPT_HANDLER(UART1_RX_IRQHandler, 18)
- {
-    /* In order to detect unexpected events during development,
-       it is recommended to set a breakpoint on the following instruction.
-    */
- }
+// INTERRUPT_HANDLER(UART1_RX_IRQHandler, 18)
+// {
+//    /* In order to detect unexpected events during development,
+//       it is recommended to set a breakpoint on the following instruction.
+//    */
+// }
 #endif /* (STM8S208) || (STM8S207) || (STM8S103) || (STM8S903) || (STM8AF62Ax) || (STM8AF52Ax) */
 
 #if defined(STM8AF622x)
